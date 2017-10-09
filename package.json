@@ -1,0 +1,29 @@
+{
+  "name": "sensorapiclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccakir/sensorAPIClient.git"
+  },
+  "keywords": [
+    "sensor",
+    "api",
+    "restful",
+    "client",
+    "nodejs"
+  ],
+  "author": "murat can çakır",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mccakir/sensorAPIClient/issues"
+  },
+  "homepage": "https://github.com/mccakir/sensorAPIClient#readme",
+  "dependencies": {
+    "node-rest-client": "^3.1.0"
+  }
+}
